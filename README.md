@@ -1,2 +1,2 @@
 # vlaw1217.github.io
-My personal github page
+I am new at Web Developer. 
